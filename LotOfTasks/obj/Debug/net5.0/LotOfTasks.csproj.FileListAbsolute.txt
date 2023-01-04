@@ -1,0 +1,16 @@
+C:\Users\Uczen\source\repos\LotOfTasks\bin\Debug\net5.0\LotOfTasks.exe
+C:\Users\Uczen\source\repos\LotOfTasks\bin\Debug\net5.0\LotOfTasks.deps.json
+C:\Users\Uczen\source\repos\LotOfTasks\bin\Debug\net5.0\LotOfTasks.runtimeconfig.json
+C:\Users\Uczen\source\repos\LotOfTasks\bin\Debug\net5.0\LotOfTasks.runtimeconfig.dev.json
+C:\Users\Uczen\source\repos\LotOfTasks\bin\Debug\net5.0\LotOfTasks.dll
+C:\Users\Uczen\source\repos\LotOfTasks\bin\Debug\net5.0\ref\LotOfTasks.dll
+C:\Users\Uczen\source\repos\LotOfTasks\bin\Debug\net5.0\LotOfTasks.pdb
+C:\Users\Uczen\source\repos\LotOfTasks\obj\Debug\net5.0\LotOfTasks.csproj.AssemblyReference.cache
+C:\Users\Uczen\source\repos\LotOfTasks\obj\Debug\net5.0\LotOfTasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Uczen\source\repos\LotOfTasks\obj\Debug\net5.0\LotOfTasks.AssemblyInfoInputs.cache
+C:\Users\Uczen\source\repos\LotOfTasks\obj\Debug\net5.0\LotOfTasks.AssemblyInfo.cs
+C:\Users\Uczen\source\repos\LotOfTasks\obj\Debug\net5.0\LotOfTasks.csproj.CoreCompileInputs.cache
+C:\Users\Uczen\source\repos\LotOfTasks\obj\Debug\net5.0\LotOfTasks.dll
+C:\Users\Uczen\source\repos\LotOfTasks\obj\Debug\net5.0\ref\LotOfTasks.dll
+C:\Users\Uczen\source\repos\LotOfTasks\obj\Debug\net5.0\LotOfTasks.pdb
+C:\Users\Uczen\source\repos\LotOfTasks\obj\Debug\net5.0\LotOfTasks.genruntimeconfig.cache
